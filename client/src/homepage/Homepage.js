@@ -1,5 +1,5 @@
 import React from "react";
-import DirectoryMenu from "./DirectoryMenu";
+import DirectoryMenu from "./directory/DirectoryMenu";
 
 const Homepage = () => {
   return (
