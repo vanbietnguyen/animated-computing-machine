@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import 'app.scss';
 @import 'homepage.scss';
-@import 'directory.scss';
-@import 'menuitem.scss';
+@import 'directory/directory.scss';
+@import 'directory/menuItem.scss';
+@import 'collection/collectionPreview.scss';
+@import 'collection/collectionItem.scss';

@@ -1,5 +1,5 @@
 import React from "react";
-import DirectoryMenu from "./directory/DirectoryMenu";
+import DirectoryMenu from "../components/directory/Directory.container";
 
 const Homepage = () => {
   return (
