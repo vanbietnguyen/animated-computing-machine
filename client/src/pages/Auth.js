@@ -5,7 +5,6 @@ const Auth = () => {
   return (
     <div className='auth'>
         <SignIn />
-        123
       </div>
   )
 }
